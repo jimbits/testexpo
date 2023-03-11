@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1bf1e9bb-f2b8-49ae-ac24-6ab185ca99ae"
+      }
+    },
+    "owner": "jamesfoley"
   }
 }
